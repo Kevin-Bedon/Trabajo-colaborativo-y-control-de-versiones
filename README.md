@@ -3,4 +3,4 @@ Comprender el uso práctico de un sistema de control de versiones (como Git) y s
 ## Cambios de la rama1
 Este es el primer cambio realizado en la rama1.
 
-Segundo cambio realizado en la rama1 para simular el trabajo colaborativo.
+Segundo cambio realizado en la rama principal para probar conflictos.
