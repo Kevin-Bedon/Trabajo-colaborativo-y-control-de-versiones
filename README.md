@@ -7,3 +7,5 @@ Segundo cambio realizado en la rama1 para simular el trabajo colaborativo.
 
 ## Cambios de la rama2
 Este es el primer cambio realizado en la rama2.
+
+Segundo cambio realizado en la rama2.
