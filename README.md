@@ -9,3 +9,5 @@ Segundo cambio realizado en la rama1 para simular el trabajo colaborativo.
 Este es el primer cambio realizado en la rama2.
 
 Segundo cambio realizado en rama2 para probar conflictos.
+
+Segundo cambio realizado en la rama principal para probar conflictos.
